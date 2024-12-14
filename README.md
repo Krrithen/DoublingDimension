@@ -1,2 +1,3 @@
-# DoublingDimension
-Doubling Dimension Analysis Using Cover Trees - This repository implements two algorithms for computing the doubling dimension of graphs using cover trees, a hierarchical data structure.
+# **Doubling Dimension Analysis Using Cover Trees**
+
+This repository implements two algorithms for computing the **doubling dimension** of graphs using **cover trees**, a hierarchical data structure. The first algorithm adopts an exhaustive, greedy approach to evaluate all nodes for optimal accuracy, while the second algorithm leverages clustering and targeted center selection to approximate the doubling dimension with significantly reduced computational overhead. The project includes applications on real-world datasets (e.g., Twitter interaction networks), demonstrating the trade-offs between accuracy and efficiency. This repository is useful for graph analysis, metric space embedding, and scalable clustering tasks.
